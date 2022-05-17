@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "Chiku",
+      "email": "rohit@123.gmail",
+      "phone": "7363736336",
+      "website": "as.com",
+      "id": 4
+    },
+    {
+      "name": "ROBI MOHAPATRA",
+      "username": "ku",
+      "email": "rabikumarmohapatra",
+      "phone": "9556026824",
+      "website": "demarco.info",
+      "id": 5
+    },
+    {
+      "name": "dutta",
+      "username": "setty",
+      "email": "dutta6@gmail.com",
+      "phone": "574574546464",
+      "website": "fdhdg.com",
+      "id": 6
+    }
+  ]
+}
